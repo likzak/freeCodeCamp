@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"torrent",
+	"author":"torrent-leo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
